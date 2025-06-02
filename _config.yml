@@ -21,10 +21,7 @@ author: DJ Swanevelder
 
 navbar-links:
   About Me: "aboutme"
-  Projects: 
-    - DQN Cartpole: "projects/dqn-cartpole"
-    - Bayesian NN: "projects/bayesian-nn"
-  Contact Me: "contactme"
+  # Contact Me: "contactme"
 
 
 ################
