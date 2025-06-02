@@ -129,16 +129,16 @@ keywords: "Machine Learning,AI, Computer Vision, Data Science, Portfolio, DJ Swa
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
 page-col: "#FFFFFF"
-text-col: "#0e0e0eff"
-link-col: "#f80e05ff"
-hover-col: "#a00a04ff"
-navbar-col: "#f0f0f0ff"
-navbar-text-col: "#0e0e0eff"
-navbar-border-col: "#d0d0d0ff"
-footer-col: "#f0f0f0ff"
-footer-text-col: "#0e0e0eff"
-footer-link-col: "#f80e05ff"
-footer-hover-col: "#a00a04ff"
+text-col: "#0e0e0e"
+link-col: "#f80e05"
+hover-col: "#a00a04"
+navbar-col: "#f0f0f0"
+navbar-text-col: "#0e0e0e"
+navbar-border-col: "#d0d0d0"
+footer-col: "#f0f0f0"
+footer-text-col: "#0e0e0e"
+footer-link-col: "#f80e05"
+footer-hover-col: "#a00a04"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
