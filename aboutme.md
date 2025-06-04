@@ -1,11 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who I am outside of work
 ---
 
-My name is Dewald Jacobus (DJ) Swanevelder I 
+Hi I'm Dewald Jacobus (DJ) Swanevelder
 
 
-### My story
+
+## Acedemic Timeline
+
+## Hobbies
+- Cubing
+- Chess
+- Learning German
+
 
